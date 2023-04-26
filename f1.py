@@ -1,4 +1,1 @@
-a = 10
-b = 20
-
-print('Hello world')
+print('Hello')
