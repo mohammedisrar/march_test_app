@@ -1,0 +1,1 @@
+select * from table group by column order by column desc
